@@ -17,9 +17,9 @@ const HomePage: React.FC = () => {
           Ye SEO-friendly aur developer-friendly features provide karta hai.
         </p>
         <img
-          src="/herojs.jpg"
+          src="/hero.jpg"
           alt="Next.js"
-          className="mx-auto rounded-lg shadow-md w-full max-w-md"
+          className="mx-auto rounded-lg shadow-md w-72 h-72 max-w-md"
         />
 
         {/* Features */}
